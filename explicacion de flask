@@ -1,0 +1,12 @@
+Flask SQLAlchemy: una extensión de Flask que agrega soporte para el ORM SQLAlchemy, mapeador relacional de objetos que simplifica la interacción con una base de datos SQL.
+Flask RESTful: una extensión de Flask para desarrollar API REST con un patrón de diseño orientado a objetos.
+Flask Marshmallow: una extensión de Flask que se integra con Marshmallow, una biblioteca de Python para la serialización de objetos.
+
+
+$ pip install flask
+
+$ pip install flask-sqlalchemy
+
+$ pip install flask-restful
+
+$ pip install flask-marshmallow
